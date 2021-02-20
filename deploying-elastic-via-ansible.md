@@ -5,7 +5,7 @@ Navigate to the directory containing your playbook
 
 Run the playbook to deploy Elastic to your Azure Virtual Machines
 
-```shell
+```bash
 
 cd playbooks
 
