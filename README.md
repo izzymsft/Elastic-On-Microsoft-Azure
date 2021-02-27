@@ -20,6 +20,8 @@ https://www.elastic.co/guide/en/cloud-enterprise/current/ece-installing.html
 
 ## Integration Points between Elastic, Azure and the Microsoft Ecosystem
 
+These are documentation to resources on how to integrate the Elastic ecosystem with Microsoft platform products
+
 ### Azure Single Sign-on
 https://www.elastic.co/blog/integrating-azure-single-sign-on-with-elastic-cloud-enterprise-at-strabag
 
