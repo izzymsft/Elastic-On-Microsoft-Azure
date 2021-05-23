@@ -30,16 +30,19 @@ Elastic provides you with the ability to infuse search experiences into your web
 
 ## Deployment Strategies on Microsoft Azure
 ![Deployment Strategies](assets/fully-managed-vs-self.png)
-Below are resources to deployment strategies for setting up your Elastic infrastructure on Azure. This usually comes down to a balancing act between control and responsibility. With the fully-managed Elastic Cloud offering on Azure, you get to focus on building your solutions on Azure instead of dedicating human resources and time on setting up and maintaining infrastructure. With the self-managed options, you have more control and you are also responsible for setting up and maintaining the Elastic environment in Azure. You also need to have in place the right team with the skill to set it up properly.
+Below are resources to deployment strategies for setting up your Elastic infrastructure on Azure. This usually comes down to a balancing act between control and responsibility.
+- **Fully Managed Option**: with the fully-managed Elastic Cloud offering on Azure, you get to focus on building your solutions on Azure instead of dedicating human resources and time on setting up and maintaining infrastructure.
+- **Self-Managed Option**: with the self-managed options, you have more control and you are also responsible for setting up and maintaining the Elastic environment in Azure. You also need to have in place the right team with the skill to set it up properly.
 
 ### Deploying Elastic Cloud from Microsoft Azure Marketplace
 ![Fully Managed](assets/fully-managed.png)
 
-The link below walks you through how the power of enterprise search, observability, and security to your Microsoft Azure environment to help you stay future-ready and protected as well as how you can leverage Elastic Cloud (Elasticsearch fully-managed service) on Azure to get the most out of your data and technology.
+The [link below](https://www.elastic.co/campaigns/relevance-and-resilience-your-way) walks you through how the power of enterprise search, observability, and security to your Microsoft Azure environment to help you stay future-ready and protected as well as how you can leverage Elastic Cloud (Elasticsearch fully-managed service) on Azure to get the most out of your data and technology.
+
 https://www.elastic.co/campaigns/relevance-and-resilience-your-way
 
 ![Self-managed](assets/self-managed.png)
-If you prefer to manage your Elastic deployment yourself or maybe to deploy Elastic in your development and staging environments on Azure, we have options on how to do so easily using Azure Virtual Machines or the Azure Kubernetes Service.
+If you prefer to manage your Elastic deployment yourself or maybe to deploy Elastic in your development and staging environments on Azure, we have options on how to do so easily using [Azure Virtual Machines](https://www.elastic.co/guide/en/cloud-enterprise/current/ece-installing.html) or the [Azure Kubernetes Service](https://www.elastic.co/guide/en/cloud-on-k8s/current/k8s-quickstart.html).
 
 ### Deploying Elastic Cloud on Microsoft Azure Kubernetes Service
 https://www.elastic.co/guide/en/cloud-on-k8s/current/k8s-quickstart.html
