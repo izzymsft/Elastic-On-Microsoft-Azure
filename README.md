@@ -12,11 +12,13 @@ Be sure you checkout the [Elastic Partner Showcase](https://mybuild.microsoft.co
 ## Announcements
 ![Announcements](assets/annoucements.png)
 
-- Deep Integration with Azure Portal: https://www.elastic.co/blog/experience-elasticsearch-microsoft-azure-portal
-- Azure Enhanced Integration: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/elastic.ec-azure-pp
-- Azure Blog on Native Integration: https://azure.microsoft.com/en-us/blog/search-made-simple-native-elastic-integration-with-azure-now-in-preview/
+Below are some of the announcements that we shared at Microsoft Build on May 25th
 
-## Did you have any questions after the Table Talk?
+- [Deep Integration with Azure Portal](https://www.elastic.co/blog/experience-elasticsearch-microsoft-azure-portal)
+- [Marketplace Listing for Azure Enhanced Integration](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/elastic.ec-azure-pp)
+- [Azure Blog on Native Elastic Integration](https://azure.microsoft.com/en-us/blog/search-made-simple-native-elastic-integration-with-azure-now-in-preview/)
+
+## Did you have any questions after the Table Talk at Build?
 ![Questions?](assets/questions.png)
 If you have any immediate questions, please send an email to the Azure team at elastic at the following email address: **azureuser@elastic.co**
 
