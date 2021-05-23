@@ -8,6 +8,20 @@ At [Microsoft Build 2021](https://mybuild.microsoft.com/sessions/6b30f734-81ec-4
 
 Be sure you checkout the [Elastic Partner Showcase](https://mybuild.microsoft.com/partner/5eabe2aa-7aa9-4d46-bca3-9f1ab896f87a?t=%257B%2522from%2522%253A%25222020-12-30T00%253A00%253A00Z%2522%252C%2522to%2522%253A%25222070-01-15T23%253A59%253A00Z%2522%257D) at #MSBuild right after the session.
 
+
+## Announcements
+![Announcements](assets/annoucements.png)
+
+- Deep Integration with Azure Portal: https://www.elastic.co/blog/experience-elasticsearch-microsoft-azure-portal
+- Azure Enhanced Integration: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/elastic.ec-azure-pp
+- Azure Blog on Native Integration: https://azure.microsoft.com/en-us/blog/search-made-simple-native-elastic-integration-with-azure-now-in-preview/
+
+## Did you have any questions after the Table Talk?
+![Questions?](assets/questions.png)
+If you have any immediate questions, please send an email to the Azure team at elastic at the following email address: **azureuser@elastic.co**
+
+If you posted questions during the Table Talk as a participant at the event, we have a transcript of all the questions that were posted and we should be posting responses to your questions in the next couple of days. So, please check back in a few days for updates on your answers.
+
 ## Why you need Elastic on Azure
 ![Why Elastic on Azure](assets/why-you-need-elastic-2.png)
 
