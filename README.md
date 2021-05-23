@@ -30,13 +30,17 @@ Elastic provides you with the ability to infuse search experiences into your web
 
 ## Deployment Strategies on Microsoft Azure
 ![Deployment Strategies](assets/fully-managed-vs-self.png)
-Below are resources to deployment strategies for setting up your Elastic infrastructure on Azure
+Below are resources to deployment strategies for setting up your Elastic infrastructure on Azure. This usually comes down to a balancing act between control and responsibility. With the fully-managed Elastic Cloud offering on Azure, you get to focus on building your solutions on Azure instead of dedicating human resources and time on setting up and maintaining infrastructure. With the self-managed options, you have more control and you are also responsible for setting up and maintaining the Elastic environment in Azure. You also need to have in place the right team with the skill to set it up properly.
 
 ### Deploying Elastic Cloud from Microsoft Azure Marketplace
 ![Fully Managed](assets/fully-managed.png)
+
+The link below walks you through how the power of enterprise search, observability, and security to your Microsoft Azure environment to help you stay future-ready and protected as well as how you can leverage Elastic Cloud (Elasticsearch fully-managed service) on Azure to get the most out of your data and technology.
 https://www.elastic.co/campaigns/relevance-and-resilience-your-way
 
 ![Self-managed](assets/self-managed.png)
+If you prefer to manage your Elastic deployment yourself or maybe to deploy Elastic in your development and staging environments on Azure, we have options on how to do so easily using Azure Virtual Machines or the Azure Kubernetes Service.
+
 ### Deploying Elastic Cloud on Microsoft Azure Kubernetes Service
 https://www.elastic.co/guide/en/cloud-on-k8s/current/k8s-quickstart.html
 
@@ -79,3 +83,4 @@ https://cloud.elastic.co/pricing
 ## Reaching Out
 ![Reaching Out](assets/reaching-out.png)
 Please reach out [Phoebe Quincy](https://twitter.com/quincy_phoebe), [Israel Ekpo](https://twitter.com/izzyacademy) and [Eric Ooi](https://twitter.com/ericooi) if you have additional questions or feedback. Dont forget to visit the [Elastic Partner Showcase](https://mybuild.microsoft.com/partner/5eabe2aa-7aa9-4d46-bca3-9f1ab896f87a?t=%257B%2522from%2522%253A%25222020-12-30T00%253A00%253A00Z%2522%252C%2522to%2522%253A%25222070-01-15T23%253A59%253A00Z%2522%257D) for additional resources on how to stay connected. Thanks.
+
