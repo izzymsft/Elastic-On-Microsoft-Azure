@@ -4,10 +4,14 @@ Public repository with resources to deployment strategies for deploying Elastic 
 
 ## Speakers for Table Talk at Microsoft Build 2021
 ![Speaker Social](assets/speaker-social.png)
-Please reach out [Phoebe Quincy](https://twitter.com/quincy_phoebe), [Israel Ekpo](https://twitter.com/izzyacademy) and [Eric Ooi](https://twitter.com/ericooi) if you have additional questions or feedback. Thanks.
+At [Microsoft Build 2021](https://mybuild.microsoft.com/sessions/6b30f734-81ec-4125-9125-dde9d1e698ec?source=search), please join [Phoebe Quincy](https://twitter.com/quincy_phoebe), [Israel Ekpo](https://twitter.com/izzyacademy) and [Eric Ooi](https://twitter.com/ericooi) for a [presentation and discussion](https://mybuild.microsoft.com/sessions/6b30f734-81ec-4125-9125-dde9d1e698ec?source=search) on the best practices of running the Elastic Stack in the Azure cloud and how the partnership with Elastic makes it easier for you to deploy powerful search experiences in your Azure environment. Connect with other practitioners, ask questions, hear use cases, and see enterprise customer success stories.
+
+Be sure you checkout the [Elastic Partner Showcase](https://mybuild.microsoft.com/partner/5eabe2aa-7aa9-4d46-bca3-9f1ab896f87a?t=%257B%2522from%2522%253A%25222020-12-30T00%253A00%253A00Z%2522%252C%2522to%2522%253A%25222070-01-15T23%253A59%253A00Z%2522%257D) at #MSBuild right after the session.
 
 ## Why you need Elastic on Azure
 ![Why Elastic on Azure](assets/why-you-need-elastic-2.png)
+
+https://www.elastic.co/partners/microsoft-azure
 
 By running Elastic Stack on Azure, you can take data from any source reliably and securely, in any format, then search, analyze, and visualize it in real time. Elastic can deliver sub-second response times when working at tera and petabyte scale on Azure.
 
@@ -27,9 +31,6 @@ Elastic provides you with the ability to infuse search experiences into your web
 ## Deployment Strategies on Microsoft Azure
 ![Deployment Strategies](assets/fully-managed-vs-self.png)
 Below are resources to deployment strategies for setting up your Elastic infrastructure on Azure
-
-### Elastic/Microsoft Azure Partnership
-https://www.elastic.co/partners/microsoft-azure
 
 ### Deploying Elastic Cloud from Microsoft Azure Marketplace
 ![Fully Managed](assets/fully-managed.png)
@@ -77,4 +78,4 @@ https://cloud.elastic.co/pricing
 
 ## Reaching Out
 ![Reaching Out](assets/reaching-out.png)
-Please reach out [Phoebe Quincy](https://twitter.com/quincy_phoebe), [Israel Ekpo](https://twitter.com/izzyacademy) and [Eric Ooi](https://twitter.com/ericooi) if you have additional questions or feedback. Thanks.
+Please reach out [Phoebe Quincy](https://twitter.com/quincy_phoebe), [Israel Ekpo](https://twitter.com/izzyacademy) and [Eric Ooi](https://twitter.com/ericooi) if you have additional questions or feedback. Dont forget to visit the [Elastic Partner Showcase](https://mybuild.microsoft.com/partner/5eabe2aa-7aa9-4d46-bca3-9f1ab896f87a?t=%257B%2522from%2522%253A%25222020-12-30T00%253A00%253A00Z%2522%252C%2522to%2522%253A%25222070-01-15T23%253A59%253A00Z%2522%257D) for additional resources on how to stay connected. Thanks.
