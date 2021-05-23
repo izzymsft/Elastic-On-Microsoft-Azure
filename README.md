@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 # Elastic On Microsoft Azure
 
 ## Helpful Resources
 ![Helpful Resources for Follow Up](assets/qr-code.png)
+=======
+# Elastic Cloud On Microsoft Azure
+![Speaker Social](assets/speaker-social.png)
+>>>>>>> 5f5bd3789ba901eae6fc7a51b260493b38ed2719
 Public repository with resources to deployment strategies for deploying Elastic on Azure as well as integration points between the Elastic ecosystem as well as the Microsoft ecosystem of platform products.
 
 ## Speakers for Table Talk at Microsoft Build 2021
