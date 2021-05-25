@@ -1,4 +1,4 @@
-# Elastic On Microsoft Azure
+# Elastic Cloud On Microsoft Azure
 ![Speaker Social](assets/speaker-social.png)
 Public repository with resources to deployment strategies for deploying Elastic on Azure as well as integration points between the Elastic ecosystem as well as the Microsoft ecosystem of platform products.
 
