@@ -17,6 +17,7 @@ Below are some of the announcements that we shared at Microsoft Build on May 25t
 - [Deep Integration with Azure Portal](https://www.elastic.co/blog/experience-elasticsearch-microsoft-azure-portal)
 - [Marketplace Listing for Azure Enhanced Integration](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/elastic.ec-azure-pp)
 - [Azure Blog on Native Elastic Integration](https://azure.microsoft.com/en-us/blog/search-made-simple-native-elastic-integration-with-azure-now-in-preview/)
+- [Quickstart on Getting Started with Elastic on Azure](https://docs.microsoft.com/en-us/azure/partner-solutions/elastic/create)
 - [Managing the Elastic Integration on Azure](https://docs.microsoft.com/en-us/azure/partner-solutions/elastic/manage)
 
 ## Did you have any questions after the Table Talk at Build?
