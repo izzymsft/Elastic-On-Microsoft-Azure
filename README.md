@@ -87,3 +87,5 @@ https://cloud.elastic.co/pricing
 ![Reaching Out](assets/reaching-out.png)
 Please reach out [Phoebe Quincy](https://twitter.com/quincy_phoebe), [Israel Ekpo](https://twitter.com/izzyacademy) and [Eric Ooi](https://twitter.com/ericooi) if you have additional questions or feedback. Dont forget to visit the [Elastic Partner Showcase](https://mybuild.microsoft.com/partner/5eabe2aa-7aa9-4d46-bca3-9f1ab896f87a?t=%257B%2522from%2522%253A%25222020-12-30T00%253A00%253A00Z%2522%252C%2522to%2522%253A%25222070-01-15T23%253A59%253A00Z%2522%257D) for additional resources on how to stay connected. Thanks.
 
+You can also send an email to the Azure team at elastic at the following email address: **azureuser@elastic.co**
+
